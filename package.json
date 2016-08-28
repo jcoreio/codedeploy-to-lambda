@@ -1,0 +1,28 @@
+{
+  "name": "codedeploy-to-lambda",
+  "version": "0.1.0",
+  "description": "Deploy Lambda function code from a CodePipeline build stage",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "lint:fix": "eslint --fix index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoreio/codedeploy-to-lambda.git"
+  },
+  "keywords": [
+    "CodeDeploy",
+    "Lambda"
+  ],
+  "author": "Jason McLaurin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jcoreio/codedeploy-to-lambda/issues"
+  },
+  "homepage": "https://github.com/jcoreio/codedeploy-to-lambda#readme",
+  "devDependencies": {
+    "eslint": "^3.4.0"
+  },
+  "dependencies": {}
+}
