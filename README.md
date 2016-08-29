@@ -1,4 +1,4 @@
-# codedeploy-to-lambda
+# codepipeline-lambda-updater
 
 Replace a lambda function's code with the output of a CodePipeline build stage
 
